@@ -1,0 +1,6 @@
+The Python application implements an algorithm to explore all possible knight moves, determining if a 
+complete tour is achievable. 
+The solution not only calculates the tour but also specifies whether the resulting tour is open
+(if the knight cannot return to the starting square) or closed (if the knight returns to its starting square).
+This project serves as a practical demonstration of algorithmic problem-solving and pathfinding in a constrained 
+environment.
